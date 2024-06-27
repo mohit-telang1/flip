@@ -1,7 +1,0 @@
-hello world 
-java
-python
-bash
-groovy
-golang
-
